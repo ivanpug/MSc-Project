@@ -7,6 +7,14 @@
 <h2 id="msc-bioinformatics-project">MSc Bioinformatics Project</h2>
 <p><img src="https://lh3.googleusercontent.com/fAYrWcMFQsPPCS2Q7ByzTedabwXSzbqcNMsVkvKCtBvf18_94636eSfvZYfKS4wwNQ2o44iITom_qQ" alt="enter image description here" title="sdfs"><br>
 <em>pippo</em></p>
+<p>prova modifica</p>
+<p>[ ] adfsdg</p>
+<ul>
+<li>adfad</li>
+<li>gaagag</li>
+<li>iuhiubh</li>
+</ul>
+<p>egfshfs</p>
 <p>wdghgshss</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
