@@ -776,7 +776,7 @@ head(hvg.out)
 
 The distribution of expression values for the top HVGs can be seen to ensure that the variance estimate is not being dominated by one or two outlier cells
 
-```{r echo=TRUE}
+```{r}
 plotExpression(sce, rownames(hvg.out)[1:10]) + fontsize
 ```
 *Fig. 18 - Violin plots of normalized log-expression values for the top 10 genes with the largest biological components in the E4.5 dataset*
